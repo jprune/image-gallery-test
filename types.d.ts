@@ -5,3 +5,9 @@ type Image = {
     name: string
     username: string
 }
+
+type DBEntry = {
+    name: string,
+    href: string,
+    username: string,
+}
